@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://qaflow.dev'
 languageCode = 'en-us'
 title = 'qaflow.dev'
 theme = 'anatole'
