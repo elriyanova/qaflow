@@ -2,12 +2,15 @@ baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'qaflow.dev'
 theme = 'anatole'
+enableEmoji = true
+disqusShortname = 'qaflow-dev-1.disqus.com'
 
 [params]
-title = "Hello, my name is Ellie!"
+title = "Quality means doing it right when no one is looking"
 author = "Elvira Riianova"
 description = "qaflow.dev"
 profilePicture = "images/profile.jpeg"
+gtagId = "G-Y47WQS7RWK"
 
 [menu]
 
@@ -24,8 +27,28 @@ profilePicture = "images/profile.jpeg"
   url = "/post/"
 
   [[menu.main]]
-  name = "About"
+  name = "About me"
   weight = 300
   identifier = "about"
   url = "/about/"
+
+  [[params.socialIcons]]
+icon = "fab fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/elvira-riianova/"
+
+  [[params.socialIcons]]
+icon = "fab fa-github"
+title = "Github"
+url = "https://github.com/elriyanova"
+
+  [[params.socialIcons]]
+icon = "fas fa-envelope"
+title = "elriyanova@gmail.com"
+url = "mailto:elriyanova@gmail.com"
+
+  [[params.socialIcons]]
+icon = "fab fa-instagram"
+title = "Instagram"
+url = "https://www.instagram.com/ellieriya"
 
