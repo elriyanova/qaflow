@@ -24,7 +24,7 @@ gtagId = "G-Y47WQS7RWK"
   name = "Posts"
   weight = 200
   identifier = "posts"
-  url = "/post/"
+  url = "/blog/"
 
   [[menu.main]]
   name = "About me"
