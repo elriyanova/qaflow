@@ -3,7 +3,7 @@ languageCode = 'en-us'
 title = 'qaflow.dev'
 theme = 'anatole'
 enableEmoji = true
-disqusShortname = 'qaflow-dev.disqus.com'
+disqusShortname = 'qaflow-dev'
 
 [params]
 title = "Quality means doing it right when no one is looking"
