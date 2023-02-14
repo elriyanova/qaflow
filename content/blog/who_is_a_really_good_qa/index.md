@@ -6,6 +6,7 @@ description = "Who is a really good QA?"
 tags = [
     "soft-skills", "qa", "good-qa", "hard-skills", "software-testing"
 ]
+type="post"
 +++
 
 ![Tux, the Linux mascot](/images/qacat.png)
