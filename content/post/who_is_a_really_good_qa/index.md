@@ -32,7 +32,7 @@ And to achieve that, QA needs:
 
 If testing is inefficient, and bugs are found late, then there will be more and more bugs: poor localization of bugs takes time from developers, and introducing them in a non-priority order leads to difficulties in fixing.
 
-Therefore, instead of the task “how can I find a bunch of bugs and ddos developers”, good QA thinks: “What does the project need now, in what format and with what priorities?”.  
+Therefore, instead of the task “how can I find a bunch of bugs and abuse developers”, good QA thinks: “What does the project need now, in what format and with what priorities?”.  
 
 ## QA knows how to design tests.
 
