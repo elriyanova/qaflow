@@ -6,7 +6,7 @@ enableEmoji = true
 
 [params.utterances]
 repo="elriyanova/qaflow-comments"
-issue-term="pathname"
+issueTerm="pathname"
 label="comment"
 theme="preferred-color-scheme"
 
