@@ -3,7 +3,12 @@ languageCode = 'en-us'
 title = 'qaflow.dev'
 theme = 'anatole'
 enableEmoji = true
-disqusShortname = 'qaflow-dev'
+
+[params.utterances]
+repo="elriyanova/qaflow-comments"
+issue-term="pathname"
+label="comment"
+theme="preferred-color-scheme"
 
 [params]
 title = "Quality means doing it right when no one is looking"
