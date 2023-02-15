@@ -2,7 +2,7 @@
 author = "Elvira Riianova"
 title = "Who is a really good QA?"
 date = "2023-02-12"
-description = "Who is a really good QA?"
+description = "Who is a really good QA? What should QA do? How can QA help the project and developers?"
 tags = [
     "soft-skills", "qa", "good-qa", "hard-skills", "software-testing"
 ]

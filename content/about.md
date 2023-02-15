@@ -2,7 +2,7 @@
 title = "Hey! My name is Ellie."
 aliases = ["about","contact"]
 tags = ["blog", "author", "about"]
-description = "About qaflow.dev page"
+description = "About qaflow.dev page author - elvira riianova"
 [ author ]
   name = "Elvira Riianova"
 +++
