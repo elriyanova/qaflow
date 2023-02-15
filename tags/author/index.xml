@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>author on qaflow.dev</title>
+    <title>author on Blog about QA</title>
     <link>https://qaflow.dev/tags/author/</link>
-    <description>Recent content in author on qaflow.dev</description>
+    <description>Recent content in author on Blog about QA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://qaflow.dev/tags/author/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -13,7 +13,7 @@
       
       <guid>https://qaflow.dev/about/</guid>
       
-        <description>About qaflow.dev page</description>
+        <description>About qaflow.dev page author - elvira riianova</description>
       
     </item>
     
