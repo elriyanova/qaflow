@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>hard-skills on Blog about QA</title>
-    <link>https://qaflow.dev/tags/hard-skills/</link>
-    <description>Recent content in hard-skills on Blog about QA</description>
+    <title>automation for qa on Blog about QA</title>
+    <link>https://qaflow.dev/tags/automation-for-qa/</link>
+    <description>Recent content in automation for qa on Blog about QA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://qaflow.dev/tags/hard-skills/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://qaflow.dev/tags/automation-for-qa/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to Become a Software Test Automation Engineer Step By Step</title>
       <link>https://qaflow.dev/post/how-to-become-a-software-test-automation-engineer-step-by-step/</link>
@@ -15,17 +15,6 @@
       <guid>https://qaflow.dev/post/how-to-become-a-software-test-automation-engineer-step-by-step/</guid>
       
         <description>What do Test Automation Engineers do. How to Become a Software Test Automation Engineer Step By Step</description>
-      
-    </item>
-    
-    <item>
-      <title>Who is a really good QA?</title>
-      <link>https://qaflow.dev/post/who_is_a_really_good_qa/</link>
-      <pubDate>Sun, 12 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://qaflow.dev/post/who_is_a_really_good_qa/</guid>
-      
-        <description>Who is a really good QA? What should QA do? How can QA help the project and developers?</description>
       
     </item>
     
