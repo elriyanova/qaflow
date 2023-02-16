@@ -151,33 +151,66 @@
     </item>
     
     <item>
-      <title>about</title>
-      <link>https://qaflow.dev/tags/about/</link>
+      <title>about author</title>
+      <link>https://qaflow.dev/tags/about-author/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://qaflow.dev/tags/about/</guid>
+      <guid>https://qaflow.dev/tags/about-author/</guid>
       
         <description></description>
       
     </item>
     
     <item>
-      <title>author</title>
-      <link>https://qaflow.dev/tags/author/</link>
+      <title>blog about qa</title>
+      <link>https://qaflow.dev/tags/blog-about-qa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://qaflow.dev/tags/author/</guid>
+      <guid>https://qaflow.dev/tags/blog-about-qa/</guid>
       
         <description></description>
       
     </item>
     
     <item>
-      <title>blog</title>
-      <link>https://qaflow.dev/tags/blog/</link>
+      <title>blog about quality assurance</title>
+      <link>https://qaflow.dev/tags/blog-about-quality-assurance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://qaflow.dev/tags/blog/</guid>
+      <guid>https://qaflow.dev/tags/blog-about-quality-assurance/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>blog about testing</title>
+      <link>https://qaflow.dev/tags/blog-about-testing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://qaflow.dev/tags/blog-about-testing/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>qa automation blog</title>
+      <link>https://qaflow.dev/tags/qa-automation-blog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://qaflow.dev/tags/qa-automation-blog/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>qa blog</title>
+      <link>https://qaflow.dev/tags/qa-blog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://qaflow.dev/tags/qa-blog/</guid>
       
         <description></description>
       
