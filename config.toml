@@ -48,6 +48,11 @@ title = "Github"
 url = "https://github.com/elriyanova"
 
   [[params.socialIcons]]
+icon = "fab fa-medium"
+title = "Medium"
+url = "https://medium.com/@qaflow.dev"
+
+  [[params.socialIcons]]
 icon = "fas fa-envelope"
 title = "elriyanova@gmail.com"
 url = "mailto:elriyanova@gmail.com"
