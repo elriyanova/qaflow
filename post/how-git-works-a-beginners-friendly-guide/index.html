@@ -1,0 +1,742 @@
+<!DOCTYPE html>
+<html
+  dir="ltr"
+  lang="en"
+  data-theme=""
+  
+    class="html theme--light"
+  
+><head>
+  <title>
+    
+      
+        How Git Works: A Beginner&#39;s Friendly Guide
+      
+
+    
+
+  </title>
+
+  
+  <meta charset="utf-8" /><meta name="generator" content="Hugo 0.110.0"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
+  <meta name="author" content="Elvira Riianova" />
+  <meta
+    name="description"
+    content="How GIT works for beginners"
+  />
+  
+  
+    
+    
+    <link
+      rel="stylesheet"
+      href="/scss/main.min.5794be192d21535bdd301561e043a96b6adbad2b5c08279deff459e4661c613f.css"
+      integrity="sha256-V5S&#43;GS0hU1vdMBVh4EOpa2rbrStcCCed7/RZ5GYcYT8="
+      crossorigin="anonymous"
+      type="text/css"
+    />
+  
+
+  
+  <link
+    rel="stylesheet"
+    href="/css/markupHighlight.min.31b0a1f317f55c529a460897848c97436bb138b19c399b37de70d463a8bf6ed5.css"
+    integrity="sha256-MbCh8xf1XFKaRgiXhIyXQ2uxOLGcOZs33nDUY6i/btU="
+    crossorigin="anonymous"
+    type="text/css"
+  />
+  
+  
+  <link
+    rel="stylesheet"
+    href="/fontawesome/css/fontawesome.min.7d272de35b410fb165377550cdf9c4d3a80fbbcc961e111914e4d5c0eaf5729f.css"
+    integrity="sha256-fSct41tBD7FlN3VQzfnE06gPu8yWHhEZFOTVwOr1cp8="
+    crossorigin="anonymous"
+    type="text/css"
+  />
+  
+  <link
+    rel="stylesheet"
+    href="/fontawesome/css/solid.min.55d8333481b07a08e07cf6f37319753a2b47e99f4c395394c5747b48b495aa9b.css"
+    integrity="sha256-VdgzNIGwegjgfPbzcxl1OitH6Z9MOVOUxXR7SLSVqps="
+    crossorigin="anonymous"
+    type="text/css"
+  />
+  
+  <link
+    rel="stylesheet"
+    href="/fontawesome/css/regular.min.a7448d02590b43449364b6b5922ed9af5410abb4de4238412a830316dedb850b.css"
+    integrity="sha256-p0SNAlkLQ0STZLa1ki7Zr1QQq7TeQjhBKoMDFt7bhQs="
+    crossorigin="anonymous"
+    type="text/css"
+  />
+  
+  <link
+    rel="stylesheet"
+    href="/fontawesome/css/brands.min.9ed75a5d670c953fe4df935937674b4646f92674367e9e66eb995bb04e821647.css"
+    integrity="sha256-ntdaXWcMlT/k35NZN2dLRkb5JnQ2fp5m65lbsE6CFkc="
+    crossorigin="anonymous"
+    type="text/css"
+  />
+  
+  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+
+  <link rel="canonical" href="https://qaflow.dev/post/how-git-works-a-beginners-friendly-guide/" />
+
+  
+  
+  
+  
+  <script
+    type="text/javascript"
+    src="/js/anatole-header.min.f9132794301a01ff16550ed66763482bd848f62243d278f5e550229a158bfd32.js"
+    integrity="sha256-&#43;RMnlDAaAf8WVQ7WZ2NIK9hI9iJD0nj15VAimhWL/TI="
+    crossorigin="anonymous"
+  ></script>
+
+  
+    
+    
+    <script
+      type="text/javascript"
+      src="/js/anatole-theme-switcher.min.d6d329d93844b162e8bed1e915619625ca91687952177552b9b3e211014a2957.js"
+      integrity="sha256-1tMp2ThEsWLovtHpFWGWJcqRaHlSF3VSubPiEQFKKVc="
+      crossorigin="anonymous"
+    ></script>
+  
+
+  
+
+
+  
+  <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="How Git Works: A Beginner&#39;s Friendly Guide"/>
+<meta name="twitter:description" content="How GIT works for beginners"/>
+
+
+
+  
+  <meta property="og:title" content="How Git Works: A Beginner&#39;s Friendly Guide" />
+<meta property="og:description" content="How GIT works for beginners" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://qaflow.dev/post/how-git-works-a-beginners-friendly-guide/" /><meta property="article:section" content="post" />
+<meta property="article:published_time" content="2023-02-17T00:00:00+00:00" />
+<meta property="article:modified_time" content="2023-02-17T00:00:00+00:00" /><meta property="og:site_name" content="Quality means doing it right when no one is looking" />
+
+
+
+  
+  
+  
+  
+  <script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "BlogPosting",
+        "articleSection": "post",
+        "name": "How Git Works: A Beginner\u0027s Friendly Guide",
+        "headline": "How Git Works: A Beginner\u0027s Friendly Guide",
+        "alternativeHeadline": "",
+        "description": "
+      How GIT works for beginners
+
+
+    ",
+        "inLanguage": "en-us",
+        "isFamilyFriendly": "true",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https:\/\/qaflow.dev\/post\/how-git-works-a-beginners-friendly-guide\/"
+        },
+        "author" : {
+            "@type": "Person",
+            "name": "Elvira Riianova"
+        },
+        "creator" : {
+            "@type": "Person",
+            "name": "Elvira Riianova"
+        },
+        "accountablePerson" : {
+            "@type": "Person",
+            "name": "Elvira Riianova"
+        },
+        "copyrightHolder" : {
+            "@type": "Person",
+            "name": "Elvira Riianova"
+        },
+        "copyrightYear" : "2023",
+        "dateCreated": "2023-02-17T00:00:00.00Z",
+        "datePublished": "2023-02-17T00:00:00.00Z",
+        "dateModified": "2023-02-17T00:00:00.00Z",
+        "publisher":{
+            "@type":"Organization",
+            "name": "Elvira Riianova",
+            "url": "https://qaflow.dev",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https:\/\/qaflow.devfavicon-32x32.png",
+                "width":"32",
+                "height":"32"
+            }
+        },
+        "image": 
+      [
+      ]
+
+    ,
+        "url" : "https:\/\/qaflow.dev\/post\/how-git-works-a-beginners-friendly-guide\/",
+        "wordCount" : "1789",
+        "genre" : [ ],
+        "keywords" : [ 
+      
+      "qa"
+
+    
+      
+        ,
+
+      
+      "git for qa"
+
+    
+      
+        ,
+
+      
+      "git"
+
+    
+      
+        ,
+
+      
+      "git for beginners"
+
+    
+      
+        ,
+
+      
+      "how GIT works"
+
+    
+      
+        ,
+
+      
+      "what is git"
+
+    
+      
+        ,
+
+      
+      "how to install git"
+
+    
+      
+        ,
+
+      
+      "how to configure git"
+
+    
+      
+        ,
+
+      
+      "how to create and initialize a project using Git"
+
+    
+      
+        ,
+
+      
+      "what is GitHub"
+
+    
+      
+        ,
+
+      
+      "how to push a repository to GitHub"
+
+    
+      
+        ,
+
+      
+      "how to add files to Git"
+
+    
+      
+        ,
+
+      
+      "how to commit files to Git"
+
+    
+      
+        ,
+
+      
+      "push the repository to GitHub"
+
+    
+      
+        ,
+
+      
+      "how to use brances in git"
+
+    
+      
+        ,
+
+      
+      "how to Pull a Repository in Git"
+
+    
+      
+        ,
+
+      
+      "generate ssh"
+
+    
+      
+        ,
+
+      
+      "Git proficiency Roadmap for QA"
+
+    ]
+    }
+  </script>
+
+
+</head>
+<body class="body">
+    <div class="wrapper">
+      <aside
+        
+          class="wrapper__sidebar"
+        
+      ><div
+  class="sidebar
+    animated fadeInDown
+  "
+>
+  <div class="sidebar__content">
+    <div class="sidebar__introduction">
+      <img
+        class="sidebar__introduction-profileimage"
+        src="/images/profile.jpeg"
+        alt="profile picture"
+      />
+      
+        <div class="sidebar__introduction-title">
+          <a href="/">Quality means doing it right when no one is looking</a>
+        </div>
+      
+      <div class="sidebar__introduction-description">
+        <p>qaflow.dev</p>
+      </div>
+    </div>
+    <ul class="sidebar__list">
+      
+        <li class="sidebar__list-item">
+          <a
+            href="https://www.linkedin.com/in/elvira-riianova/"
+            target="_blank"
+            rel="noopener me"
+            aria-label="Linkedin"
+            title="Linkedin"
+          >
+            <i class="fab fa-linkedin fa-2x" aria-hidden="true"></i>
+          </a>
+        </li>
+      
+        <li class="sidebar__list-item">
+          <a
+            href="https://github.com/elriyanova"
+            target="_blank"
+            rel="noopener me"
+            aria-label="Github"
+            title="Github"
+          >
+            <i class="fab fa-github fa-2x" aria-hidden="true"></i>
+          </a>
+        </li>
+      
+        <li class="sidebar__list-item">
+          <a
+            href="https://medium.com/@qaflow.dev"
+            target="_blank"
+            rel="noopener me"
+            aria-label="Medium"
+            title="Medium"
+          >
+            <i class="fab fa-medium fa-2x" aria-hidden="true"></i>
+          </a>
+        </li>
+      
+        <li class="sidebar__list-item">
+          <a
+            href="mailto:elriyanova@gmail.com"
+            target="_blank"
+            rel="noopener me"
+            aria-label="elriyanova@gmail.com"
+            title="elriyanova@gmail.com"
+          >
+            <i class="fas fa-envelope fa-2x" aria-hidden="true"></i>
+          </a>
+        </li>
+      
+        <li class="sidebar__list-item">
+          <a
+            href="https://www.instagram.com/ellieriya"
+            target="_blank"
+            rel="noopener me"
+            aria-label="Instagram"
+            title="Instagram"
+          >
+            <i class="fab fa-instagram fa-2x" aria-hidden="true"></i>
+          </a>
+        </li>
+      
+    </ul>
+  </div><footer class="footer footer__sidebar">
+  <ul class="footer__list">
+    <li class="footer__item">
+      &copy;
+      
+        Elvira Riianova
+        2023
+      
+    </li>
+    
+  </ul>
+</footer>
+  
+  <script
+    type="text/javascript"
+    src="/js/medium-zoom.min.1248fa75275e5ef0cbef27e8c1e27dc507c445ae3a2c7d2ed0be0809555dac64.js"
+    integrity="sha256-Ekj6dSdeXvDL7yfoweJ9xQfERa46LH0u0L4ICVVdrGQ="
+    crossorigin="anonymous"
+  ></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Y47WQS7RWK"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag('js', new Date());
+  gtag('config', 'G-Y47WQS7RWK');
+</script>
+</div>
+</aside>
+      <main
+        
+          class="wrapper__main"
+        
+      >
+        <header class="header"><div
+  class="
+    animated fadeInDown
+  "
+>
+  <a role="button" class="navbar-burger" data-target="navMenu" aria-label="menu" aria-expanded="false">
+    <span aria-hidden="true" class="navbar-burger__line"></span>
+    <span aria-hidden="true" class="navbar-burger__line"></span>
+    <span aria-hidden="true" class="navbar-burger__line"></span>
+  </a>
+  <nav class="nav">
+    <ul class="nav__list" id="navMenu">
+      
+      
+        
+        
+          <li class="nav__list-item">
+            <a
+              
+              href="/"
+              
+              title=""
+              >Home</a
+            >
+          </li>
+        
+
+      
+        
+        
+          <li class="nav__list-item">
+            <a
+              
+              href="/post/"
+              
+              title=""
+              >Posts</a
+            >
+          </li>
+        
+
+      
+        
+        
+          <li class="nav__list-item">
+            <a
+              
+              href="/about/"
+              
+              title=""
+              >About me</a
+            >
+          </li>
+        
+
+      
+    </ul>
+    <ul class="nav__list nav__list--end">
+      
+      
+        <li class="nav__list-item">
+          <div class="themeswitch">
+            <a title="Switch Theme">
+              <i class="fas fa-adjust fa-fw" aria-hidden="true"></i>
+            </a>
+          </div>
+        </li>
+      
+    </ul>
+  </nav>
+</div>
+</header>
+  <div
+    class="post 
+      animated fadeInDown
+    "
+  >
+    
+    <div class="post__content">
+      <h1>How Git Works: A Beginner&#39;s Friendly Guide</h1>
+      
+        <ul class="post__meta">
+          <li class="post__meta-item">
+            <em class="fas fa-calendar-day post__meta-icon"></em>
+            <span class="post__meta-text"
+              >
+                
+                  Fri, Feb 17, 2023
+                
+
+              
+            </span>
+          </li>
+          <li class="post__meta-item">
+            <em class="fas fa-stopwatch post__meta-icon"></em>
+            <span class="post__meta-text">9-minute read</span>
+          </li>
+        </ul>
+      <p><img src="/images/gitb.png" alt="Tux, the Linux mascot"></p>
+<p>You can often see the Git requirement in jobs for an experienced QA, so the time will come when you need to learn it.</p>
+<p>This guide will help you understand what Git and version control are, basic Git commands, and how you can use them to work with your code.</p>
+<p>This tutorial is beginner friendly as the examples will be very clear for everyone :)</p>
+<h1 id="what-is-git">What is Git?</h1>
+<p>Git is a version control system that lets you track changes you make to your files over time.</p>
+<p>A version control system is a system that allows a group of people to collaborate on code without the risk of accidentally overwriting someone else&rsquo;s work. It also allows the team to keep track of who changed the code and when it happened, so you can easily get to the root of the problem.</p>
+<blockquote>
+<p>Think of it as an entire timeline of your project from the beginning to the end. With Git, you can revert any state of your files. You can also make a copy of your file, make changes to that copy, and then merge it with the original file.</p>
+</blockquote>
+<h2 id="1-how-to-install-git">1. How to install Git</h2>
+<p>To use Git, you need to install it on your computer. You can download the latest version from the <a href="https://git-scm.com/downloads">official website</a>.</p>
+<h2 id="2-how-to-configure-git">2. How to configure Git</h2>
+<p>So, you have installed Git on your computer. Let&rsquo;s check it out: open a terminal and type <code>git --version</code> or <code>git -v</code>. This shows you the current version installed on your PC.</p>
+<p>Next, you need to set a username and email. Git will use this information to determine who made changes to the files.</p>
+<p>Run the commands:</p>
+<p><code>git config --global user.name &quot;YOUR_USERNAME&quot;</code><br>
+<code>git config --global user.email &quot;YOUR_EMAIL&quot;</code>.</p>
+<p>Replace <code>&quot;YOUR_USERNAME&quot;</code> and <code>&quot;YOUR_EMAIL&quot;</code> with yours.</p>
+<h1 id="how-to-create-and-initialize-a-project-using-git">How to create and initialize a project using Git</h1>
+<p>Now let&rsquo;s create a project.</p>
+<ol>
+<li>On your PC, create a folder with any name, for example &ldquo;Git learning&rdquo;.</li>
+<li>In a terminal, run the command  <code>cd desktop</code> , and then <code>cd Git learning</code></li>
+</ol>
+<p>As a code editor I use Visual Studio Code with its own terminal for executing commands. If you want to use it, download it <a href="https://code.visualstudio.com/download">here</a>.</p>
+<p>After installing VS Code, open the &ldquo;Git learning&rdquo; project in the editor and open a new terminal.</p>
+<p>Now, to initialize your project, run the command <code>git init</code> . This command will tell Git to be ready to start tracking your files.</p>
+<p>Create a file inside a folder &ldquo;Git learning&rdquo; with any information, for example <code>shopping list.txt</code>. The file might look like this:</p>
+<pre tabindex="0"><code>Shopping list:
+1. Cookies;
+2. Candy;
+3. Marshmallow;
+4. Chocolate.
+</code></pre><h1 id="what-is-github">What is GitHub?</h1>
+<p>Before we continue, let&rsquo;s know what GitHub is.</p>
+<p>GitHub is an online hosting service for Git repositories.</p>
+<p>Imagine that you are at home and working on a project. You went to visit someone and suddenly remember that you did not finish your work. But your computer is not with you, and you do not have access to it. But at the same time, your project is on GitHub and your friend has a computer. With the help of GitHub, you can download this project using the command on any computer. You can then make your changes and push the latest version back to GitHub.</p>
+<p>So GitHub allows you to store your repo on their platform.</p>
+<h2 id="how-to-push-a-repository-to-github">How to push a repository to GitHub</h2>
+<h3 id="step-1-create-a-github-account">Step 1: Create a GitHub account</h3>
+<p>Create a personal GitHub account <a href="https://github.com/">here</a>.</p>
+<h3 id="step-2---create-a-repository">Step 2 - Create a repository</h3>
+<p>Click the &ldquo;+&rdquo; symbol in the top right corner of the page, select &ldquo;New Repository&rdquo;. Give your repository a name, then scroll down and click &ldquo;Create Repository&rdquo;.</p>
+<h3 id="step-3---add-and-commit-files">Step 3 - Add and commit files</h3>
+<p>Before we &ldquo;add&rdquo; and &ldquo;commit&rdquo; our files, you need to understand at what stages a file is tracked by Git.</p>
+<p>There are 3 states:</p>
+<p><strong>Modified state</strong></p>
+<p>A file in <strong>modified</strong> state contains changes but has not yet been saved. This means that the state of the file has been changed from its previous state.</p>
+<p><strong>Staging state</strong></p>
+<p>A file in the <strong>staged</strong> state means that it is ready to be committed. In this state, all necessary changes have been made, so the next step is to move the file into a committed state.</p>
+<p><strong>Committed state</strong></p>
+<p>The file is in the <strong>committed</strong> status if all changes have been saved to the local repository. Files in the commit stage are files that are ready to be pushed to a remote repo (on GitHub).</p>
+<p><img src="/images/gitstates.jpeg" alt="Tux, the Linux mascot"></p>
+<h3 id="how-to-add-files-to-git">How to add files to Git</h3>
+<p>We&rsquo;ve initialized the project, but Git isn&rsquo;t tracking the file yet. So we are in the modified state now.</p>
+<p>So, you have created the file <code>shopping list.txt</code>. Do some changes in this file, for example, I added a new item to the list:</p>
+<pre tabindex="0"><code>Shopping list:
+1. Cookies;
+2. Candy;
+3. Marshmallow;
+4. Chocolate;
+5. Apples.
+</code></pre><p>Now we are still in a modified state.</p>
+<p>Run the command <code>git add -A</code>.</p>
+<p>The file is now in the staging state. You won&rsquo;t get a response from this command, but to see what state your file is in, you can run the <code>git status</code> command.</p>
+<h3 id="how-to-commit-files-in-git">How to commit files in Git</h3>
+<p>To commit our file, run <code>git commit -m &quot;initial commit&quot;</code>. Now our file is in a committed state.</p>
+<p><code>git commit</code> tells Git that all files are ready to be committed, so it&rsquo;s time to commit the changes. The second part <code>-m &quot;initial commit&quot;</code> is the commit message. <code>-m</code> is short for message, and the text inside the is the commit message. Usually, the message briefly states what exactly was done.</p>
+<blockquote>
+<p>Don&rsquo;t forget to leave commit messages so that the commit history will be clear in the future.</p>
+</blockquote>
+<h3 id="step-4-push-the-repository-to-github">Step 4: Push the repository to GitHub</h3>
+<p>After you have created the repository, you are redirected to a page that tells you how to create a local repository or push an existing one.</p>
+<p>Since our project already exists, we need to push it. Copy all the commands from the &ldquo;&hellip;or push an existing repository from the command line&rdquo; section. These are the commands:</p>
+<pre tabindex="0"><code>
+git remote add origin &#34;your URL&#34;
+git branch -M main
+git push -u origin main
+</code></pre><p>The first command <code>git remote add origin</code> creates a connection between your local repository and the remote one on GitHub.</p>
+<p>The second command <code>git branch -M main</code> changes the name of your main branch to &ldquo;main&rdquo;.</p>
+<p>The last command <code>git push -u origin main</code> pushes the repository from your local device to GitHub.</p>
+<h1 id="how-to-use-branches-in-git">How to use branches in Git</h1>
+<p>With branches, you can create a copy of the file you want to work on without changing the original one.</p>
+<p>Let&rsquo;s imagine that we want to add a new item to the shopping list, but we are not sure exactly about it. In this case, we can create a new branch called &ldquo;test&rdquo; to see what the new list will look like.</p>
+<p>Run the command: <code>git checkout -b test</code>.</p>
+<p><code>checkout</code> tells Git that it is supposed to switch to another branch. <code>-b</code> tells Git to create a new branch. <code>test</code> is the name of the branch to be created to switch to.</p>
+<p>We have created a new branch &ldquo;test&rdquo; from the state of our last commit. Now let&rsquo;s add a new item to the shopping list:</p>
+<pre tabindex="0"><code>Shopping list:
+1. Cookies;
+2. Candy;
+3. Marshmallow;
+4. Chocolate;
+5. Apples.
+6. Car.
+</code></pre><p>To merge a new state into the master branch, you must first commit and commit that branch.</p>
+<p>You should try it yourself to understand how it works, as we did it twice in the previous section. Add the file to git tracking and then commit with a message.</p>
+<p>After committing the &ldquo;test&rdquo; branch, switch back to the main branch by issuing this command: <code>git checkout main</code>.</p>
+<p>Now merge the changes into the master branch by running <code>git merge test</code>. At this point, you will see that all changes made on the test branch are reflected in the master branch.</p>
+<p>If you push your repo to GitHub, you will see that the &ldquo;test&rdquo; branch has not been pushed. It will only remain in your local repository. If you want to push that branch too, switch to the branch with <code>git checkout test</code> and then run <code>git push -u origin test</code>.</p>
+<h1 id="how-to-pull-a-repository-in-git">How to Pull a Repository in Git</h1>
+<p>To pull means to clone a remote repository to your computer. To test this run <code>cd ..</code> to leave the current directory. Go to GitHub, and on your repository&rsquo;s main page you should see a green button that says &ldquo;Code&rdquo;. You can see two options - HTTPS and SSH.</p>
+<h3 id="how-to-pull-a-repository-in-git-using-https">How to Pull a Repository in Git using HTTPS</h3>
+<p>Copy the HTTPS URL.</p>
+<p>After that, run <code>git clone COPIED_HTTPS_URL</code>. This command pulls the remote repository into your local computer.</p>
+<p>By default, Git connects to remotes using the HTTPS protocol which requires you to enter your username and password every time you run a command such as <em>git pull</em> or <em>git push</em>.</p>
+<h3 id="how-to-pull-a-repository-in-git-using-ssh">How to Pull a Repository in Git using SSH</h3>
+<p>Using the SSH protocol, you can connect and authenticate to remote servers and services. With SSH keys, you can connect to GitHub without supplying your username or password with each visit.</p>
+<p>First, check whether you have any existing SSH keys. To do this, open the terminal and enter <code>ls -al ~/.ssh</code></p>
+<p>If you don&rsquo;t have an existing public and private key pair, then generate a new SSH key.</p>
+<ol>
+<li>Open the terminal</li>
+<li>Run the command:
+<code>ssh-keygen -t rsa -b 4096 -C &quot;your_email@example.com&quot;</code></li>
+<li>Press Enter when prompted to &ldquo;<em>Enter a file in which to save the key</em>&rdquo; to accept the default file location</li>
+<li>Enter a secure passphrase when prompted</li>
+<li>Copy the SSH key to your clipboard: <code>pbcopy &lt; ~/.ssh/id_rsa.pub</code></li>
+<li>Open <em>Settings</em> on your GitHub page</li>
+<li>Select <em>SSH and GPG keys</em> in the menu on the left-hand side</li>
+<li>Click the <em>New SSH key</em> button</li>
+<li>Paste your SSH key</li>
+<li>Click the Add SSH key button</li>
+</ol>
+<h1 id="conclusion">Conclusion</h1>
+<p>So whether you are already a QA or a fresh graduate considering testing as a career, I hope this guide helps you understand what GIT is and how to use it.</p>
+<p>I also want to share with you a great site <a href="https://learngitbranching.js.org/">Learn GIT branching</a> where you can practice Git.</p>
+<p>And here <a href="https://gitexplorer.com/">GIT command explorer</a> you can easily find the right command.</p>
+<p><strong>Short Git proficiency Roadmap for QA:</strong></p>
+<ul>
+<li>Learn the definitions of Git and VCS</li>
+<li>Download Git from the official site</li>
+<li>Understand the basics of Git</li>
+<li>Learn how to work with GitHub</li>
+<li>Complete all <a href="https://learngitbranching.js.org/">practice sessions</a></li>
+<li>Download the <a href="https://git-scm.com/book/en/v2">Pro Git Book</a></li>
+<li>Learn Pro Git Book Practice on real projects</li>
+</ul>
+<p><strong>Not everything will work out the first time, but don’t forget why you started!</strong></p>
+<p>If you find this article interesting and useful, then don’t forget to share this with your friends. Also, feel free to share your comments/suggestions below ❤️</p>
+</div>
+    <div class="post__footer">
+      
+
+      
+        <span><a class="tag" href="/tags/qa/">qa</a><a class="tag" href="/tags/git-for-qa/">git for qa</a><a class="tag" href="/tags/git/">git</a><a class="tag" href="/tags/git-for-beginners/">git for beginners</a><a class="tag" href="/tags/how-git-works/">how GIT works</a><a class="tag" href="/tags/what-is-git/">what is git</a><a class="tag" href="/tags/how-to-install-git/">how to install git</a><a class="tag" href="/tags/how-to-configure-git/">how to configure git</a><a class="tag" href="/tags/how-to-create-and-initialize-a-project-using-git/">how to create and initialize a project using Git</a><a class="tag" href="/tags/what-is-github/">what is GitHub</a><a class="tag" href="/tags/how-to-push-a-repository-to-github/">how to push a repository to GitHub</a><a class="tag" href="/tags/how-to-add-files-to-git/">how to add files to Git</a><a class="tag" href="/tags/how-to-commit-files-to-git/">how to commit files to Git</a><a class="tag" href="/tags/push-the-repository-to-github/">push the repository to GitHub</a><a class="tag" href="/tags/how-to-use-brances-in-git/">how to use brances in git</a><a class="tag" href="/tags/how-to-pull-a-repository-in-git/">how to Pull a Repository in Git</a><a class="tag" href="/tags/generate-ssh/">generate ssh</a><a class="tag" href="/tags/git-proficiency-roadmap-for-qa/">Git proficiency Roadmap for QA</a></span>
+
+
+      
+    </div>
+
+    <div id="comment">
+          <h2>comments</h2>
+          <script
+  src="https://utteranc.es/client.js"
+  repo="elriyanova/qaflow-comments"
+  issue-term="pathname"
+  theme="preferred-color-scheme"
+  
+    label="comment"
+  
+  crossorigin="anonymous"
+  async
+></script>
+
+        </div>
+  </div>
+
+      </main>
+    </div><footer class="footer footer__base">
+  <ul class="footer__list">
+    <li class="footer__item">
+      &copy;
+      
+        Elvira Riianova
+        2023
+      
+    </li>
+    
+  </ul>
+</footer>
+  
+  <script
+    type="text/javascript"
+    src="/js/medium-zoom.min.1248fa75275e5ef0cbef27e8c1e27dc507c445ae3a2c7d2ed0be0809555dac64.js"
+    integrity="sha256-Ekj6dSdeXvDL7yfoweJ9xQfERa46LH0u0L4ICVVdrGQ="
+    crossorigin="anonymous"
+  ></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Y47WQS7RWK"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag('js', new Date());
+  gtag('config', 'G-Y47WQS7RWK');
+</script>
+</body>
+</html>

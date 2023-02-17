@@ -2,6 +2,72 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://qaflow.dev/</loc>
+    <lastmod>2023-02-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://qaflow.dev/tags/generate-ssh/</loc>
+    <lastmod>2023-02-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://qaflow.dev/tags/git/</loc>
+    <lastmod>2023-02-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://qaflow.dev/tags/git-for-beginners/</loc>
+    <lastmod>2023-02-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://qaflow.dev/tags/git-for-qa/</loc>
+    <lastmod>2023-02-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://qaflow.dev/tags/git-proficiency-roadmap-for-qa/</loc>
+    <lastmod>2023-02-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://qaflow.dev/tags/how-git-works/</loc>
+    <lastmod>2023-02-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://qaflow.dev/post/how-git-works-a-beginners-friendly-guide/</loc>
+    <lastmod>2023-02-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://qaflow.dev/tags/how-to-add-files-to-git/</loc>
+    <lastmod>2023-02-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://qaflow.dev/tags/how-to-commit-files-to-git/</loc>
+    <lastmod>2023-02-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://qaflow.dev/tags/how-to-configure-git/</loc>
+    <lastmod>2023-02-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://qaflow.dev/tags/how-to-create-and-initialize-a-project-using-git/</loc>
+    <lastmod>2023-02-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://qaflow.dev/tags/how-to-install-git/</loc>
+    <lastmod>2023-02-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://qaflow.dev/tags/how-to-pull-a-repository-in-git/</loc>
+    <lastmod>2023-02-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://qaflow.dev/tags/how-to-push-a-repository-to-github/</loc>
+    <lastmod>2023-02-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://qaflow.dev/tags/how-to-use-brances-in-git/</loc>
+    <lastmod>2023-02-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://qaflow.dev/post/</loc>
+    <lastmod>2023-02-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://qaflow.dev/tags/push-the-repository-to-github/</loc>
+    <lastmod>2023-02-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://qaflow.dev/tags/qa/</loc>
+    <lastmod>2023-02-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://qaflow.dev/tags/</loc>
+    <lastmod>2023-02-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://qaflow.dev/tags/what-is-git/</loc>
+    <lastmod>2023-02-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://qaflow.dev/tags/what-is-github/</loc>
+    <lastmod>2023-02-17T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://qaflow.dev/tags/automation-for-qa/</loc>
     <lastmod>2023-02-16T00:00:00+00:00</lastmod>
   </url><url>
@@ -12,9 +78,6 @@
     <lastmod>2023-02-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://qaflow.dev/tags/automation-qa/</loc>
-    <lastmod>2023-02-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://qaflow.dev/</loc>
     <lastmod>2023-02-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://qaflow.dev/tags/hard-skills/</loc>
@@ -32,19 +95,10 @@
     <loc>https://qaflow.dev/tags/js-for-qa/</loc>
     <lastmod>2023-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://qaflow.dev/post/</loc>
-    <lastmod>2023-02-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://qaflow.dev/tags/qa/</loc>
-    <lastmod>2023-02-16T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://qaflow.dev/tags/software-developer-in-test/</loc>
     <lastmod>2023-02-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://qaflow.dev/tags/software-testing/</loc>
-    <lastmod>2023-02-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://qaflow.dev/tags/</loc>
     <lastmod>2023-02-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://qaflow.dev/tags/good-qa/</loc>

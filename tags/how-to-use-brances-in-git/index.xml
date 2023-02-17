@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>how to use brances in git on Blog about QA</title>
+    <link>https://qaflow.dev/tags/how-to-use-brances-in-git/</link>
+    <description>Recent content in how to use brances in git on Blog about QA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 17 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://qaflow.dev/tags/how-to-use-brances-in-git/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How Git Works: A Beginner&#39;s Friendly Guide</title>
+      <link>https://qaflow.dev/post/how-git-works-a-beginners-friendly-guide/</link>
+      <pubDate>Fri, 17 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://qaflow.dev/post/how-git-works-a-beginners-friendly-guide/</guid>
+      
+        <description>How GIT works for beginners</description>
+      
+    </item>
+    
+  </channel>
+</rss>
