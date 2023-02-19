@@ -4,7 +4,7 @@ title = "How Git Works: A Beginner's Friendly Guide"
 date = "2023-02-17"
 description = "How GIT works for beginners"
 tags = [
-    "qa", "git for qa", "git", "git for beginners", "how GIT works", "what is git", "how to install git", "how to configure git", "how to create and initialize a project using Git", "what is GitHub", "how to push a repository to GitHub", "how to add files to Git", "how to commit files to Git", "push the repository to GitHub", "how to use brances in git", "how to Pull a Repository in Git", "generate ssh", "Git proficiency Roadmap for QA"
+    "qa", "git for qa", "git", "git for beginners", "how GIT works", "what is git"
 ]
 type="post"
 +++
