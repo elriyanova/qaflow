@@ -6,7 +6,18 @@
     <description>Recent content in qa on Blog about QA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://qaflow.dev/tags/qa/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://qaflow.dev/tags/qa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Testing does NOT improve quality</title>
+      <link>https://qaflow.dev/post/testing-does-not-improve-quality/</link>
+      <pubDate>Sun, 19 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://qaflow.dev/post/testing-does-not-improve-quality/</guid>
+      
+        <description>in order to improve the quality of a product or service, it is essential to adopt a comprehensive approach that includes not only testing but also problem prevention strategies, such as risk analysis, proactive maintenance, and continuous improvement efforts.</description>
+      
+    </item>
+    
     <item>
       <title>How Git Works: A Beginner&#39;s Friendly Guide</title>
       <link>https://qaflow.dev/post/how-git-works-a-beginners-friendly-guide/</link>

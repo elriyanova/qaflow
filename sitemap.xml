@@ -3,7 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://qaflow.dev/</loc>
-    <lastmod>2023-02-17T00:00:00+00:00</lastmod>
+    <lastmod>2023-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://qaflow.dev/post/</loc>
+    <lastmod>2023-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://qaflow.dev/tags/qa/</loc>
+    <lastmod>2023-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://qaflow.dev/tags/quality/</loc>
+    <lastmod>2023-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://qaflow.dev/tags/</loc>
+    <lastmod>2023-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://qaflow.dev/tags/testing/</loc>
+    <lastmod>2023-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://qaflow.dev/post/testing-does-not-improve-quality/</loc>
+    <lastmod>2023-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://qaflow.dev/tags/testing-is-not-quality/</loc>
+    <lastmod>2023-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://qaflow.dev/tags/what-is-testing/</loc>
+    <lastmod>2023-02-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://qaflow.dev/tags/git/</loc>
     <lastmod>2023-02-17T00:00:00+00:00</lastmod>
@@ -18,15 +42,6 @@
     <lastmod>2023-02-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://qaflow.dev/post/how-git-works-a-beginners-friendly-guide/</loc>
-    <lastmod>2023-02-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://qaflow.dev/post/</loc>
-    <lastmod>2023-02-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://qaflow.dev/tags/qa/</loc>
-    <lastmod>2023-02-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://qaflow.dev/tags/</loc>
     <lastmod>2023-02-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://qaflow.dev/tags/what-is-git/</loc>
