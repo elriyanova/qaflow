@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>testing on Blog about QA</title>
-    <link>https://qaflow.dev/tags/testing/</link>
-    <description>Recent content in testing on Blog about QA</description>
+    <title>Artificial Intelligence on Blog about QA</title>
+    <link>https://qaflow.dev/tags/artificial-intelligence/</link>
+    <description>Recent content in Artificial Intelligence on Blog about QA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://qaflow.dev/tags/testing/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://qaflow.dev/tags/artificial-intelligence/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why Chat GPT can&#39;t replace QA engineers in software testing</title>
       <link>https://qaflow.dev/post/why-chat-gpt-cant-replace-qa-engineer/</link>
@@ -15,17 +15,6 @@
       <guid>https://qaflow.dev/post/why-chat-gpt-cant-replace-qa-engineer/</guid>
       
         <description>This article argues that while AI can be useful in some aspects of testing, it cannot entirely replace the role of QA engineers. The article highlights the human judgment, critical thinking, technical expertise, communication skills, and regulatory compliance knowledge that QA engineers bring to the testing process, which AI currently cannot replicate.</description>
-      
-    </item>
-    
-    <item>
-      <title>Testing does NOT improve quality</title>
-      <link>https://qaflow.dev/post/testing-does-not-improve-quality/</link>
-      <pubDate>Sun, 19 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://qaflow.dev/post/testing-does-not-improve-quality/</guid>
-      
-        <description>in order to improve the quality of a product or service, it is essential to adopt a comprehensive approach that includes not only testing but also problem prevention strategies, such as risk analysis, proactive maintenance, and continuous improvement efforts.</description>
       
     </item>
     
