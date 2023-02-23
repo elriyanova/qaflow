@@ -1,4 +1,4 @@
-  +++
++++
 author = "Elvira Riianova"
 title = "Why Chat GPT can't replace QA engineers in software testing"
 date = "2023-02-22"
