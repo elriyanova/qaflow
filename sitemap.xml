@@ -2,10 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://qaflow.dev/tags/artificial-intelligence/</loc>
-    <lastmod>2023-02-22T00:00:00+00:00</lastmod>
+    <loc>https://qaflow.dev/post/7-test-automation-mistakes-and-solutions-with-examples/</loc>
+    <lastmod>2023-02-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://qaflow.dev/</loc>
+    <lastmod>2023-02-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://qaflow.dev/post/</loc>
+    <lastmod>2023-02-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://qaflow.dev/tags/qa/</loc>
+    <lastmod>2023-02-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://qaflow.dev/tags/qa-automation/</loc>
+    <lastmod>2023-02-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://qaflow.dev/tags/software-testing/</loc>
+    <lastmod>2023-02-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://qaflow.dev/tags/</loc>
+    <lastmod>2023-02-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://qaflow.dev/tags/test-automation/</loc>
+    <lastmod>2023-02-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://qaflow.dev/tags/test-automation-mistakes/</loc>
+    <lastmod>2023-02-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://qaflow.dev/tags/artificial-intelligence/</loc>
     <lastmod>2023-02-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://qaflow.dev/tags/chat-gpt/</loc>
@@ -14,16 +38,7 @@
     <loc>https://qaflow.dev/tags/human-judgment/</loc>
     <lastmod>2023-02-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://qaflow.dev/post/</loc>
-    <lastmod>2023-02-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://qaflow.dev/tags/qa/</loc>
-    <lastmod>2023-02-22T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://qaflow.dev/tags/qa-engineering/</loc>
-    <lastmod>2023-02-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://qaflow.dev/tags/</loc>
     <lastmod>2023-02-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://qaflow.dev/tags/testing/</loc>
@@ -90,9 +105,6 @@
     <lastmod>2023-02-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://qaflow.dev/tags/software-developer-in-test/</loc>
-    <lastmod>2023-02-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://qaflow.dev/tags/software-testing/</loc>
     <lastmod>2023-02-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://qaflow.dev/tags/good-qa/</loc>
