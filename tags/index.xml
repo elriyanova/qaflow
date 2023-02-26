@@ -6,11 +6,11 @@
     <description>Recent content in Tags on Blog about QA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://qaflow.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://qaflow.dev/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>qa</title>
       <link>https://qaflow.dev/tags/qa/</link>
-      <pubDate>Thu, 23 Feb 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 26 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://qaflow.dev/tags/qa/</guid>
       
@@ -21,9 +21,42 @@
     <item>
       <title>qa automation</title>
       <link>https://qaflow.dev/tags/qa-automation/</link>
-      <pubDate>Thu, 23 Feb 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 26 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://qaflow.dev/tags/qa-automation/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Release management</title>
+      <link>https://qaflow.dev/tags/release-management/</link>
+      <pubDate>Sun, 26 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://qaflow.dev/tags/release-management/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Software development</title>
+      <link>https://qaflow.dev/tags/software-development/</link>
+      <pubDate>Sun, 26 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://qaflow.dev/tags/software-development/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Workflow optimization</title>
+      <link>https://qaflow.dev/tags/workflow-optimization/</link>
+      <pubDate>Sun, 26 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://qaflow.dev/tags/workflow-optimization/</guid>
       
         <description></description>
       

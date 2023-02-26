@@ -6,7 +6,18 @@
     <description>Recent content in qa automation on Blog about QA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://qaflow.dev/tags/qa-automation/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://qaflow.dev/tags/qa-automation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stress-Free Software Release</title>
+      <link>https://qaflow.dev/post/stress-free-software-release/</link>
+      <pubDate>Sun, 26 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://qaflow.dev/post/stress-free-software-release/</guid>
+      
+        <description>Stress-Free Software Release is an article that offers tips and strategies for reducing stress during the software release process.</description>
+      
+    </item>
+    
     <item>
       <title>7 Test Automation Mistakes and Solutions with examples</title>
       <link>https://qaflow.dev/post/7-test-automation-mistakes-and-solutions-with-examples/</link>
