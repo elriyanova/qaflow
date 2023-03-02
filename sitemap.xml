@@ -3,7 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://qaflow.dev/</loc>
-    <lastmod>2023-02-28T00:00:00+00:00</lastmod>
+    <lastmod>2023-03-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://qaflow.dev/post/</loc>
+    <lastmod>2023-03-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://qaflow.dev/tags/qa/</loc>
+    <lastmod>2023-03-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://qaflow.dev/tags/quality-software/</loc>
+    <lastmod>2023-03-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://qaflow.dev/tags/software-development/</loc>
+    <lastmod>2023-03-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://qaflow.dev/tags/</loc>
+    <lastmod>2023-03-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://qaflow.dev/post/who-is-responsible-for-software-quality/</loc>
+    <lastmod>2023-03-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://qaflow.dev/tags/clear-requirements/</loc>
     <lastmod>2023-02-28T00:00:00+00:00</lastmod>
@@ -11,19 +29,7 @@
     <loc>https://qaflow.dev/tags/happy-qa/</loc>
     <lastmod>2023-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://qaflow.dev/post/</loc>
-    <lastmod>2023-02-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://qaflow.dev/tags/qa/</loc>
-    <lastmod>2023-02-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://qaflow.dev/tags/qa-automation/</loc>
-    <lastmod>2023-02-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://qaflow.dev/tags/software-development/</loc>
-    <lastmod>2023-02-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://qaflow.dev/tags/</loc>
     <lastmod>2023-02-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://qaflow.dev/post/what-makes-qa-happy/</loc>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>quality software on Blog about QA</title>
+    <link>https://qaflow.dev/tags/quality-software/</link>
+    <description>Recent content in quality software on Blog about QA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://qaflow.dev/tags/quality-software/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Who Is Responsible For Software Quality?</title>
+      <link>https://qaflow.dev/post/who-is-responsible-for-software-quality/</link>
+      <pubDate>Thu, 02 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://qaflow.dev/post/who-is-responsible-for-software-quality/</guid>
+      
+        <description>We know quality is synonymous with testing. But, many people in the software development process think the quality is restricted to the QA&#39;s job responsibility.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
