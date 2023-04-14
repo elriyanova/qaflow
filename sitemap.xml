@@ -2,8 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://qaflow.dev/post/become-a-qa-superstar-5-habits-that-will-take-your-skills-to-the-next-level/</loc>
+    <lastmod>2023-04-14T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://qaflow.dev/</loc>
-    <lastmod>2023-04-09T00:00:00+00:00</lastmod>
+    <lastmod>2023-04-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://qaflow.dev/post/</loc>
+    <lastmod>2023-04-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://qaflow.dev/tags/qa/</loc>
+    <lastmod>2023-04-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://qaflow.dev/tags/qa-habits/</loc>
+    <lastmod>2023-04-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://qaflow.dev/tags/qa-impact/</loc>
+    <lastmod>2023-04-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://qaflow.dev/tags/qa-motivation/</loc>
+    <lastmod>2023-04-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://qaflow.dev/tags/software-development/</loc>
+    <lastmod>2023-04-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://qaflow.dev/tags/</loc>
+    <lastmod>2023-04-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://qaflow.dev/tags/testing/</loc>
+    <lastmod>2023-04-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://qaflow.dev/tags/developers-qa/</loc>
     <lastmod>2023-04-09T00:00:00+00:00</lastmod>
@@ -11,22 +38,7 @@
     <loc>https://qaflow.dev/tags/devtesting/</loc>
     <lastmod>2023-04-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://qaflow.dev/post/</loc>
-    <lastmod>2023-04-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://qaflow.dev/tags/qa/</loc>
-    <lastmod>2023-04-09T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://qaflow.dev/tags/qa-responsibilites/</loc>
-    <lastmod>2023-04-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://qaflow.dev/tags/software-development/</loc>
-    <lastmod>2023-04-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://qaflow.dev/tags/</loc>
-    <lastmod>2023-04-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://qaflow.dev/tags/testing/</loc>
     <lastmod>2023-04-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://qaflow.dev/post/who-should-take-ownership-of-testing-in-the-sdlc-time-to-rethink-developer-responsibility/</loc>
