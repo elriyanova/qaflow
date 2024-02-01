@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bugs on Blog about QA</title>
+    <link>https://qaflow.dev/tags/bugs/</link>
+    <description>Recent content in bugs on Blog about QA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://qaflow.dev/tags/bugs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Oopsie Bugs: A Cheery Guide to Embracing QA Slip-Ups!</title>
+      <link>https://qaflow.dev/post/oopsie-bugs/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://qaflow.dev/post/oopsie-bugs/</guid>
+      
+        <description>So, you found a bug that slipped through the cracks? No biggie! We are all in this together. Let&#39;s turn those Oopsie Bugs moments into valuable lessons and sprinkle a bit of fun into the QA world</description>
+      
+    </item>
+    
+  </channel>
+</rss>

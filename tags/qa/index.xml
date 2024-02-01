@@ -6,7 +6,18 @@
     <description>Recent content in qa on Blog about QA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://qaflow.dev/tags/qa/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://qaflow.dev/tags/qa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Oopsie Bugs: A Cheery Guide to Embracing QA Slip-Ups!</title>
+      <link>https://qaflow.dev/post/oopsie-bugs/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://qaflow.dev/post/oopsie-bugs/</guid>
+      
+        <description>So, you found a bug that slipped through the cracks? No biggie! We are all in this together. Let&#39;s turn those Oopsie Bugs moments into valuable lessons and sprinkle a bit of fun into the QA world</description>
+      
+    </item>
+    
     <item>
       <title>Supercharge Your QA Journey with ISTQB Certification: Here&#39;s Why!</title>
       <link>https://qaflow.dev/post/supercharge-your-qa-journey-with-istqb-certification-heres-why/</link>

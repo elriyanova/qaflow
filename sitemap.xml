@@ -2,10 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://qaflow.dev/tags/astqb/</loc>
-    <lastmod>2023-09-02T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://qaflow.dev/</loc>
+    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://qaflow.dev/tags/bugs/</loc>
+    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://qaflow.dev/post/oopsie-bugs/</loc>
+    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://qaflow.dev/post/</loc>
+    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://qaflow.dev/tags/qa/</loc>
+    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://qaflow.dev/tags/qa-habits/</loc>
+    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://qaflow.dev/tags/qa-impact/</loc>
+    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://qaflow.dev/tags/qa-motivation/</loc>
+    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://qaflow.dev/tags/software-development/</loc>
+    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://qaflow.dev/tags/</loc>
+    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://qaflow.dev/tags/testing/</loc>
+    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://qaflow.dev/tags/astqb/</loc>
     <lastmod>2023-09-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://qaflow.dev/tags/istqb/</loc>
@@ -15,12 +45,6 @@
     <lastmod>2023-09-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://qaflow.dev/tags/itcertification/</loc>
-    <lastmod>2023-09-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://qaflow.dev/post/</loc>
-    <lastmod>2023-09-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://qaflow.dev/tags/qa/</loc>
     <lastmod>2023-09-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://qaflow.dev/tags/qa-career-growth/</loc>
@@ -35,25 +59,7 @@
     <loc>https://qaflow.dev/post/supercharge-your-qa-journey-with-istqb-certification-heres-why/</loc>
     <lastmod>2023-09-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://qaflow.dev/tags/</loc>
-    <lastmod>2023-09-02T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://qaflow.dev/post/become-a-qa-superstar-5-habits-that-will-take-your-skills-to-the-next-level/</loc>
-    <lastmod>2023-04-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://qaflow.dev/tags/qa-habits/</loc>
-    <lastmod>2023-04-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://qaflow.dev/tags/qa-impact/</loc>
-    <lastmod>2023-04-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://qaflow.dev/tags/qa-motivation/</loc>
-    <lastmod>2023-04-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://qaflow.dev/tags/software-development/</loc>
-    <lastmod>2023-04-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://qaflow.dev/tags/testing/</loc>
     <lastmod>2023-04-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://qaflow.dev/tags/developers-qa/</loc>
