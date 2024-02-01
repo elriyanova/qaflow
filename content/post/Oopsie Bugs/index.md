@@ -2,7 +2,7 @@
 author = "Elvira Riianova"
 title = "Oopsie Bugs: A Cheery Guide to Embracing QA Slip-Ups!"
 date = "2024-02-01"
-description = "Hey there, fabulous QA! So, you found a bug that slipped through the cracks? No biggie! We're all in this together. Let's turn those "Oopsie Bugs" moments into valuable lessons and sprinkle a bit of fun into the QA world. Here's my guide to help you on your way through the bug-hunting journey."
+description = "So, you found a bug that slipped through the cracks? No biggie! We are all in this together. Let's turn those Oopsie Bugs moments into valuable lessons and sprinkle a bit of fun into the QA world"
 tags = [
     "qa", "bugs", "software development", "testing", "qa habits", "qa impact", "qa motivation"
 ]
