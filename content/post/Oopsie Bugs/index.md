@@ -23,13 +23,9 @@ Bugs happen, just like a dance move gone wrong. Shake off the "oops" and give yo
 
 Squeeze those lemons into learning lemonade! Take a sip and reflect on **why the bug slipped past your radar**. Was it a sneaky ninja bug? Learn from it, adjust your moves, and get ready to waltz through the next testing session with more pizzazz.
 
-![Tux, the Linux mascot](/images/lemon.png)
-
 # 3. Critical Functionality Hug
 
 Hug your critical functionalities tight. They're the VIPs at your software party. When you give them extra love, even if a bug sneaks in, it won't ruin the whole shindig. **Prioritize**, hug, and dance the bug away!
-
-![Tux, the Linux mascot](/images/hug.png)
 
 # 4. Robot Buddies
 
@@ -45,13 +41,9 @@ Hop on the regression rollercoaster! It's a wild ride of testing history. **Regu
 
 Picture this: cute cats of continuous improvement. They're always learning, always growing. Be like the cats - **curious and ready to try new things**. With each project, nuzzle your way towards being an even better tester!
 
-![Tux, the Linux mascot](/images/smart.png)
-
 # 7. Feedback High-Five
 
 High-fives for **feedback**! Seek it out like a champion high-fiver. Embrace those constructive pats on the back, and your testing skills will be as high-fivable as they come.
-
-![Tux, the Linux mascot](/images/cat6.png)
 
 ## Conclusion
 
