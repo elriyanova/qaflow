@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>test automation on Blog about QA</title>
+    <title>Test Automation on Blog about QA</title>
     <link>https://qaflow.dev/tags/test-automation/</link>
-    <description>Recent content in test automation on Blog about QA</description>
+    <description>Recent content in Test Automation on Blog about QA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 23 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://qaflow.dev/tags/test-automation/index.xml" rel="self" type="application/rss+xml" />
