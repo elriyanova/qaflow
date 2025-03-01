@@ -16,5 +16,3 @@ I believe that by sharing our stories and perspectives, we can learn from one an
 Find my articles on the Medium: https://medium.com/@qaflow.dev
 
 Connect with me on LinkedIn: https://www.linkedin.com/in/elvira-riianova/
-
-Follow me on Instagram: https://www.instagram.com/ellieriya

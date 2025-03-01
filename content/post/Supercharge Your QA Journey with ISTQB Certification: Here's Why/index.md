@@ -9,7 +9,7 @@ tags = [
 type="post"
 +++
 
-![Tux, the Linux mascot](/images/istqbcat.jpeg)
+![Tux, the Linux mascot](/images/qaa.jpeg)
 
 Hey there! In the exciting realm of QA, where every day brings new challenges and discoveries, the International Software Testing Qualifications Board (ISTQB) certification shines as a true game-changer. It's not just a fancy title (although that's nice too :)), it's your ticket to an amazing QA journey. Let's dive into **why the ISTQB exam can make your QA life more awesome** and why it's like the best friend you never knew you needed.
 

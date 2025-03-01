@@ -57,8 +57,3 @@ icon = "fas fa-envelope"
 title = "elriyanova@gmail.com"
 url = "mailto:elriyanova@gmail.com"
 
-  [[params.socialIcons]]
-icon = "fab fa-instagram"
-title = "Instagram"
-url = "https://www.instagram.com/ellieriya"
-
