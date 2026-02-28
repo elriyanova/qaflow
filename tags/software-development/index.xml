@@ -6,12 +6,14 @@
     <description>Recent content in Software Development on Blog about QA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <managingEditor>elriyanova@gmail.com (Elvira Riianova)</managingEditor>
+    <webMaster>elriyanova@gmail.com (Elvira Riianova)</webMaster>
     <lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://qaflow.dev/tags/software-development/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Oopsie Bugs: A Cheery Guide to Embracing QA Slip-Ups!</title>
       <link>https://qaflow.dev/post/oopsie-bugs/</link>
       <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
-      
+      <author>elriyanova@gmail.com (Elvira Riianova)</author>
       <guid>https://qaflow.dev/post/oopsie-bugs/</guid>
       
         <description>So, you found a bug that slipped through the cracks? No biggie! We are all in this together. Let&#39;s turn those Oopsie Bugs moments into valuable lessons and sprinkle a bit of fun into the QA world</description>
@@ -22,7 +24,7 @@
       <title>Become a QA Superstar: 5 Habits That Will Take Your Skills to the Next Level</title>
       <link>https://qaflow.dev/post/become-a-qa-superstar-5-habits-that-will-take-your-skills-to-the-next-level/</link>
       <pubDate>Fri, 14 Apr 2023 00:00:00 +0000</pubDate>
-      
+      <author>elriyanova@gmail.com (Elvira Riianova)</author>
       <guid>https://qaflow.dev/post/become-a-qa-superstar-5-habits-that-will-take-your-skills-to-the-next-level/</guid>
       
         <description>Do you want to become a great Quality Assurance professional and make a positive impact on your organization? Do you want to improve the quality of software products and enhance customer satisfaction? If yes, then you need to develop habits that can motivate you to excel in your role.</description>
@@ -33,7 +35,7 @@
       <title>Who Should Take Ownership of Testing in the SDLC? Time to Rethink Developer Responsibility</title>
       <link>https://qaflow.dev/post/who-should-take-ownership-of-testing-in-the-sdlc-time-to-rethink-developer-responsibility/</link>
       <pubDate>Sun, 09 Apr 2023 00:00:00 +0000</pubDate>
-      
+      <author>elriyanova@gmail.com (Elvira Riianova)</author>
       <guid>https://qaflow.dev/post/who-should-take-ownership-of-testing-in-the-sdlc-time-to-rethink-developer-responsibility/</guid>
       
         <description>Why developers shouldn&#39;t do their own QA testing. The article presents a variety of reasons for this, including potential conflicts of interest, lack of expertise, and the need for an objective perspective. </description>
@@ -44,7 +46,7 @@
       <title>Why Soft Skills Are More Important Than Hard Skills</title>
       <link>https://qaflow.dev/post/why-soft-skills-are-more-important-than-hard-skills/</link>
       <pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate>
-      
+      <author>elriyanova@gmail.com (Elvira Riianova)</author>
       <guid>https://qaflow.dev/post/why-soft-skills-are-more-important-than-hard-skills/</guid>
       
         <description>In today&#39;s fast-paced and dynamic work environment, technical skills alone are not enough to succeed. Discover the real key to success in the modern workplace: soft skills. This article explores why soft skills are essential for career growth, effective teamwork, leadership, and customer service. Wear this shirt to show that you understand the value of soft skills and are committed to honing them for professional and personal development.</description>
@@ -55,7 +57,7 @@
       <title>Who Is Responsible For Software Quality?</title>
       <link>https://qaflow.dev/post/who-is-responsible-for-software-quality/</link>
       <pubDate>Thu, 02 Mar 2023 00:00:00 +0000</pubDate>
-      
+      <author>elriyanova@gmail.com (Elvira Riianova)</author>
       <guid>https://qaflow.dev/post/who-is-responsible-for-software-quality/</guid>
       
         <description>We know quality is synonymous with testing. But, many people in the software development process think the quality is restricted to the QA&#39;s job responsibility.</description>
@@ -66,7 +68,7 @@
       <title>What makes QA happy?</title>
       <link>https://qaflow.dev/post/what-makes-qa-happy/</link>
       <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
-      
+      <author>elriyanova@gmail.com (Elvira Riianova)</author>
       <guid>https://qaflow.dev/post/what-makes-qa-happy/</guid>
       
         <description>Quality assurance (QA) teams play a critical role in ensuring that software products are of high quality, meet customer expectations, and are free of bugs and issues. However, like any other team, QA teams also want to feel satisfied and happy with their jobs. In this article, we will discuss some of the things that make QA teams happy.</description>
@@ -77,7 +79,7 @@
       <title>Stress-Free Software Release</title>
       <link>https://qaflow.dev/post/stress-free-software-release/</link>
       <pubDate>Sun, 26 Feb 2023 00:00:00 +0000</pubDate>
-      
+      <author>elriyanova@gmail.com (Elvira Riianova)</author>
       <guid>https://qaflow.dev/post/stress-free-software-release/</guid>
       
         <description>Stress-Free Software Release is an article that offers tips and strategies for reducing stress during the software release process.</description>

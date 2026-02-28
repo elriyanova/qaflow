@@ -18,7 +18,7 @@
 
   </title>
 
-  <meta name="generator" content="Hugo 0.145.0"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
+  <meta name="generator" content="Hugo 0.157.0"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
   <meta name="author" content="Elvira Riianova" />
   <meta
     name="description"
@@ -331,17 +331,26 @@
       &copy;
       
         Elvira Riianova
-        2025
+        <span class="js-current-year"></span>
       
     </li>
     
   </ul>
 </footer>
+<script>
+  (function () {
+    var year = new Date().getFullYear();
+    var yearNodes = document.querySelectorAll('.js-current-year');
+    for (var i = 0; i < yearNodes.length; i++) {
+      yearNodes[i].textContent = year;
+    }
+  })();
+</script>
   
   <script
     type="text/javascript"
-    src="/js/medium-zoom.min.1248fa75275e5ef0cbef27e8c1e27dc507c445ae3a2c7d2ed0be0809555dac64.js"
-    integrity="sha256-Ekj6dSdeXvDL7yfoweJ9xQfERa46LH0u0L4ICVVdrGQ="
+    src="/js/medium-zoom.min.9531b4a2217a70c5a1fce89c1f81c9ebbdd586708fcd4130b417320c7230c8d6.js"
+    integrity="sha256-lTG0oiF6cMWh/OicH4HJ673VhnCPzUEwtBcyDHIwyNY="
     crossorigin="anonymous"
   ></script>
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-Y47WQS7RWK"></script>
@@ -471,7 +480,8 @@
 <p>Git is a version control system that lets you track changes you make to your files over time.</p>
 <p>A version control system is a system that allows a group of people to collaborate on code without the risk of accidentally overwriting someone else&rsquo;s work. It also allows the team to keep track of who changed the code and when it happened, so you can easily get to the root of the problem.</p>
 <blockquote>
-<p>Think of it as an entire timeline of your project from the beginning to the end. With Git, you can revert any state of your files. You can also make a copy of your file, make changes to that copy, and then merge it with the original file.</p></blockquote>
+<p>Think of it as an entire timeline of your project from the beginning to the end. With Git, you can revert any state of your files. You can also make a copy of your file, make changes to that copy, and then merge it with the original file.</p>
+</blockquote>
 <h2 id="1-how-to-install-git">1. How to install Git</h2>
 <p>To use Git, you need to install it on your computer. You can download the latest version from the <a href="https://git-scm.com/downloads">official website</a>.</p>
 <h2 id="2-how-to-configure-git">2. How to configure Git</h2>
@@ -532,7 +542,8 @@
 <p>To commit our file, run <code>git commit -m &quot;initial commit&quot;</code>. Now our file is in a committed state.</p>
 <p><code>git commit</code> tells Git that all files are ready to be committed, so it&rsquo;s time to commit the changes. The second part <code>-m &quot;initial commit&quot;</code> is the commit message. <code>-m</code> is short for message, and the text inside the is the commit message. Usually, the message briefly states what exactly was done.</p>
 <blockquote>
-<p>Don&rsquo;t forget to leave commit messages so that the commit history will be clear in the future.</p></blockquote>
+<p>Don&rsquo;t forget to leave commit messages so that the commit history will be clear in the future.</p>
+</blockquote>
 <h3 id="step-4-push-the-repository-to-github">Step 4: Push the repository to GitHub</h3>
 <p>After you have created the repository, you are redirected to a page that tells you how to create a local repository or push an existing one.</p>
 <p>Since our project already exists, we need to push it. Copy all the commands from the &ldquo;&hellip;or push an existing repository from the command line&rdquo; section. These are the commands:</p>
@@ -635,17 +646,26 @@ git push -u origin main
       &copy;
       
         Elvira Riianova
-        2025
+        <span class="js-current-year"></span>
       
     </li>
     
   </ul>
 </footer>
+<script>
+  (function () {
+    var year = new Date().getFullYear();
+    var yearNodes = document.querySelectorAll('.js-current-year');
+    for (var i = 0; i < yearNodes.length; i++) {
+      yearNodes[i].textContent = year;
+    }
+  })();
+</script>
   
   <script
     type="text/javascript"
-    src="/js/medium-zoom.min.1248fa75275e5ef0cbef27e8c1e27dc507c445ae3a2c7d2ed0be0809555dac64.js"
-    integrity="sha256-Ekj6dSdeXvDL7yfoweJ9xQfERa46LH0u0L4ICVVdrGQ="
+    src="/js/medium-zoom.min.9531b4a2217a70c5a1fce89c1f81c9ebbdd586708fcd4130b417320c7230c8d6.js"
+    integrity="sha256-lTG0oiF6cMWh/OicH4HJ673VhnCPzUEwtBcyDHIwyNY="
     crossorigin="anonymous"
   ></script>
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-Y47WQS7RWK"></script>

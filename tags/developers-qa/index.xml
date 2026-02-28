@@ -6,12 +6,14 @@
     <description>Recent content in Developers Qa on Blog about QA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <managingEditor>elriyanova@gmail.com (Elvira Riianova)</managingEditor>
+    <webMaster>elriyanova@gmail.com (Elvira Riianova)</webMaster>
     <lastBuildDate>Sun, 09 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://qaflow.dev/tags/developers-qa/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Who Should Take Ownership of Testing in the SDLC? Time to Rethink Developer Responsibility</title>
       <link>https://qaflow.dev/post/who-should-take-ownership-of-testing-in-the-sdlc-time-to-rethink-developer-responsibility/</link>
       <pubDate>Sun, 09 Apr 2023 00:00:00 +0000</pubDate>
-      
+      <author>elriyanova@gmail.com (Elvira Riianova)</author>
       <guid>https://qaflow.dev/post/who-should-take-ownership-of-testing-in-the-sdlc-time-to-rethink-developer-responsibility/</guid>
       
         <description>Why developers shouldn&#39;t do their own QA testing. The article presents a variety of reasons for this, including potential conflicts of interest, lack of expertise, and the need for an objective perspective. </description>
