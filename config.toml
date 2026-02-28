@@ -13,6 +13,7 @@ theme="preferred-color-scheme"
 [params]
 title = "Quality means doing it right when no one is looking"
 author = "Elvira Riianova"
+authorEmail = "elriyanova@gmail.com"
 description = "QA blog has tips, guides and the latest information on everything about QA. Covering topics on how QA Testing can improve Growth and Quality."
 profilePicture = "images/profile.jpeg"
 gtagId = "G-Y47WQS7RWK"
@@ -56,4 +57,3 @@ url = "https://medium.com/@qaflow.dev"
 icon = "fas fa-envelope"
 title = "elriyanova@gmail.com"
 url = "mailto:elriyanova@gmail.com"
-
